@@ -23,9 +23,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:54:40.496Z",
-    "original_repository": "damon-kwok/awesome-package-manager",
-    "original_repository_id": 117060841,
+    "last_updated": "2026-08-27T11:59:08.032Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 117060841,
+      "language": null,
+      "last_commit": "2025-05-20T08:42:29Z",
+      "owner": "damon-kwok",
+      "repo": "awesome-package-manager",
+      "stars": 203
+    },
     "original_repository_sha": "386e55432cbff601c73d67e318785b33078244ae",
     "enhanced_repository": "enhansome/enhansome-package-manager",
     "enhanced_repository_description": null,
