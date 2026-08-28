@@ -16,14 +16,15 @@
             "owner": "damon-kwok",
             "repo": "awesome-package-manager",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-28T17:29:48.555Z"
         }
       ],
       "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:34:39.380Z",
+    "last_updated": "2026-08-28T17:29:48.555Z",
     "original_repository_info": {
       "archived": false,
       "id": 117060841,
