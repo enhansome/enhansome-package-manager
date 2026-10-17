@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-16T09:56:21.441Z",
+    "last_updated": "2026-10-17T09:29:40.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "☘ Awesome package manager resources",
@@ -13,7 +13,7 @@
       "open_issues": 0,
       "owner": "damon-kwok",
       "repo": "awesome-package-manager",
-      "stars": 205,
+      "stars": 204,
       "topics": [
         "awesome-list",
         "package-management",
